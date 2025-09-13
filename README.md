@@ -19,3 +19,6 @@ ff_downloader.py
 
 
 All downloaded files will be saved inside the FF_downloader folder.
+
+
+Or just open the py.
